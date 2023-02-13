@@ -148,8 +148,8 @@ GitHub States
 
 ## 📈 Stats
 <p align="center">
-	<img width="32%" src="https://github-readme-stats.vercel.app/api?username=AbdurRahmanG&count_private=true&show_icons=true&theme=tokyonight" />
-	<img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdurRahmanG&count_private=true&theme=tokyonight" />
-	<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdurRahmanG&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+	<img width="32%" src="https://github-readme-stats.vercel.app/api?username=abdurrahmanibnghufran&count_private=true&show_icons=true&theme=tokyonight" />
+	<img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrahmanibnghufran&count_private=true&theme=tokyonight" />
+	<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrahmanibnghufran&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 </p>
 
