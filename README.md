@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Main header image
 ==================================================
 -->
-[![AbdurRahman G](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivkeffKSjJ87DzuwDoB6zccwh7o0PB-XV4vXRCuNgKre5fZBerSVgqDaQOvcpKHFw_BnLCIOTtkqxOnsXHkw7imTM5z8jIRU70KdXjJhTQYtNPo4bQHcbLT99Sy2WDdUSxYLLu68wtcgF5UU0jSakL5_gfNbklfEj22gcZXuNEbLfunlRVNO82VDo9TA/s16000/GitHub%20Heading%20Image%201500%20x%20500.png "Briefly About AbdurRahman G")](https://abdurrahmang.com)
+[![AbdurRahman Ibn Ghufran](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivkeffKSjJ87DzuwDoB6zccwh7o0PB-XV4vXRCuNgKre5fZBerSVgqDaQOvcpKHFw_BnLCIOTtkqxOnsXHkw7imTM5z8jIRU70KdXjJhTQYtNPo4bQHcbLT99Sy2WDdUSxYLLu68wtcgF5UU0jSakL5_gfNbklfEj22gcZXuNEbLfunlRVNO82VDo9TA/s16000/GitHub%20Heading%20Image%201500%20x%20500.png "Briefly About AbdurRahman Ibn Ghufran")](https://abdurrahmanibnghufran.blogspot.com/)
 
 
 <!--
@@ -29,7 +29,7 @@ Main header image
 This is Main Heading of the page
 ==================================================
 -->
-# Assalamu Alaikum, I'm AbdurRahman G! Great to see you here! 👋
+# Assalamu Alaikum, I'm AbdurRahman Ibn Ghufran! Great to see you here! 👋
 
 
 <!--
@@ -39,7 +39,7 @@ This is the Title and Description of the section like here is About Me. Once any
 -->
 <details>
   <summary>About Me</summary>
-  AbdurRahman G is A Software Engineer (Full Stack Developer) and An Orator, An Entrepreneur, A Digital Creator, A Digital Marketer, An Influencer.
+  AbdurRahman Ibn Ghufran is A Software Engineer (Full Stack Developer) and An Orator, An Entrepreneur, A Digital Creator, A Digital Marketer, An Influencer. (AbdurRahman Ibn Ghufran is a behavioural trainer and public speaker.)
 </details>
 
 
@@ -51,37 +51,37 @@ Sociel Media
 <p align="center">Feel free reaching out to me at following platforms:</p>
 
 <p align="center">
-  <a href="http://youtube.com/@TechCutting" target="_blank">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCrQ9tWwT5vs5Dn4eGRbjnsA?color=%23FF0000&label=YouTube&logo=YouTube&logoColor=%23FF0000&style=for-the-badge" alt="AbdurRahman G's YouTube channel"/>
+  <a href="https://www.youtube.com/channel/UCqlTGOr0ZTS4GCO-5wpFJtg" target="_blank">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCrQ9tWwT5vs5Dn4eGRbjnsA?color=%23FF0000&label=YouTube&logo=YouTube&logoColor=%23FF0000&style=for-the-badge" alt="AbdurRahman Ibn Ghufran's YouTube channel"/>
   </a>
-  <a href="https://abdurrahmang.github.io/udemy" target="_blank">
+  <a href="https://abdurrahmanibn.github.io/udemy" target="_blank">
   <img src="https://img.shields.io/badge/Udemy-0077B5?style=for-the-badge&logo=udemy&logoColor=white"" alt="AbdurRahman G&apos;s Udemy Profile"/>
   </a>
-  <a href="http://twitter.com/AbdurRahmanG_" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/AbdurRahmanG_?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="AbdurRahman G's Twitter"/>
+  <a href="http://twitter.com/AbdurRahmanIbnG" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/AbdurRahmanIbnG?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="AbdurRahman G's Twitter"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/AbdurRahmanGOfficial" target="_blank">
+  <a href="https://www.linkedin.com/in/abdurrahmanibnghufran" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/AbdurRahmanGOfficial" target="_blank">
+  <a href="https://www.instagram.com/abdurrahmanibnghufran" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=#E4405F">
   </a>
-  <a href="https://www.facebook.com/AbdurRahmanGOfficial" target="_blank">
+  <a href="https://www.facebook.com/abdurrahmanibnghufran" target="_blank">
   <img src="https://img.shields.io/badge/facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=#EA4335">
   </a>
-  <a href="https://join.slack.com/t/abdurrahmang/shared_invite/zt-1jn6ullp1-E8G1PyiH_WsJfTULfC6EJw   " target="_blank">
+  <a href="https://join.slack.com/t/abdurrahmanibnghufran/shared_invite/zt-1jn6ullp1-E8G1PyiH_WsJfTULfC6EJw   " target="_blank">
   <img src="https://img.shields.io/badge/slack-ffffff?style=for-the-badge&logo=slack&logoColor=#EA4335">
   </a>
-  <a href="https://discord.gg/S6NXhUDrJf" target="_blank">
+  <a href="https://discord.gg/vthrgkRay6" target="_blank">
   <img src="https://img.shields.io/badge/discord-ffffff?style=for-the-badge&logo=discord&logoColor=#EA4335">
   </a>
   <a href="https://join.skype.com/invite/hj19SvHLlmTN">
   <img src="https://img.shields.io/badge/skype-ffffff?style=for-the-badge&logo=skype&logoColor=#EA4335">
   </a>
-  <a href="https://telegram.dog/AbdurRahmanGDotCom" target="_blank">
+  <a href="https://telegram.dog/abdurrahmanibnghufran" target="_blank">
   <img src="https://img.shields.io/badge/telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=#EA4335">
   </a>
   <a href="mailto:AbdurRahmanGOfficial@gmail.com" target="_blank">
@@ -96,7 +96,7 @@ Sociel Media
 Contribution Graph
 ==================================================
 -->
-<img src="https://activity-graph.herokuapp.com/graph?username=AbdurRahmanG&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=abdurrahmanibnghufran&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
 
 <!--
@@ -136,10 +136,10 @@ YOUTUBE-VIDEOS-LIST
 
 <table>
 <tr>
-<td><a href="https://www.youtube.com/watch?v=52VqF9zxWuY"><img width="140px" src="https://i.ytimg.com/vi/52VqF9zxWuY/mqdefault.jpg"></a>
+<td><a href="https://youtu.be/DfxaxzXsZuQ"><img width="140px" src="https://i.ytimg.com/vi/DfxaxzXsZuQ/mqdefault.jpg"></a>
 </td>
 <td>
-<a href="https://www.youtube.com/watch?v=52VqF9zxWuY">Short Intro of What We Are Going To Do Next | Software Engineering Course | Web Development Course</a> (Oct 19, 2022)<br/>
+<a href="https://www.youtube.com/watch?v=DfxaxzXsZuQ">Short Intro of What We Are Going To Do Next | Software Engineering Course | Web Development Course</a> (Oct 19, 2022)<br/>
 </td>
 </tr>
 </table>
