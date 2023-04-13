@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Main header image
 ==================================================
 -->
-[![AbdurRahman Ibn Ghufran](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivkeffKSjJ87DzuwDoB6zccwh7o0PB-XV4vXRCuNgKre5fZBerSVgqDaQOvcpKHFw_BnLCIOTtkqxOnsXHkw7imTM5z8jIRU70KdXjJhTQYtNPo4bQHcbLT99Sy2WDdUSxYLLu68wtcgF5UU0jSakL5_gfNbklfEj22gcZXuNEbLfunlRVNO82VDo9TA/s16000/GitHub%20Heading%20Image%201500%20x%20500.png "Briefly About AbdurRahman Ibn Ghufran")](https://abdurrahmanibnghufran.blogspot.com/)
+[![AbdurRahman Ibn Ghufran](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivkeffKSjJ87DzuwDoB6zccwh7o0PB-XV4vXRCuNgKre5fZBerSVgqDaQOvcpKHFw_BnLCIOTtkqxOnsXHkw7imTM5z8jIRU70KdXjJhTQYtNPo4bQHcbLT99Sy2WDdUSxYLLu68wtcgF5UU0jSakL5_gfNbklfEj22gcZXuNEbLfunlRVNO82VDo9TA/s16000/GitHub%20Heading%20Image%201500%20x%20500.png "Briefly About AbdurRahman Ibn Ghufran")](https://abdurrahmanibnghufran.github.io)
 
 
 <!--
