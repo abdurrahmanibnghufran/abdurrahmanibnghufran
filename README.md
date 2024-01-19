@@ -57,8 +57,8 @@ Sociel Media
   <a href="https://abdurrahmanibnghufran.github.io/topmate/" target="_blank">
   <img src="https://img.shields.io/badge/Topmate-0077B5?style=for-the-badge&logo=topmate&logoColor=white"" alt="AbdurRahman G&apos;s Topmate Profile"/>
   </a>
-  <a href="http://twitter.com/AbdurRahmanIbnG" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/AbdurRahmanIbnG?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="AbdurRahman G's Twitter"/>
+  <a href="http://twitter.com/TechilyFlyAIG" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/TechilyFlyAIG?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Techily Fly - AbdurRahman Ibn Ghufran's Twitter"/>
   </a>
 </p>
 
