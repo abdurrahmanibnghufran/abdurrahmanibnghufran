@@ -66,10 +66,10 @@ Sociel Media
   <a href="https://www.linkedin.com/in/abdurrahmanibnghufran" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/abdurrahmanibnghufran" target="_blank">
+  <a href="https://www.instagram.com/TechilyFlyAIG" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=#E4405F">
   </a>
-  <a href="https://www.facebook.com/abdurrahmanibnghufran" target="_blank">
+  <a href="https://www.facebook.com/TechilyFlyAIG" target="_blank">
   <img src="https://img.shields.io/badge/facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=#EA4335">
   </a>
   <a href="https://join.slack.com/t/abdurrahmanibnghufran/shared_invite/zt-1jn6ullp1-E8G1PyiH_WsJfTULfC6EJw   " target="_blank">
@@ -81,10 +81,10 @@ Sociel Media
   <a href="https://join.skype.com/invite/hj19SvHLlmTN">
   <img src="https://img.shields.io/badge/skype-ffffff?style=for-the-badge&logo=skype&logoColor=#EA4335">
   </a>
-  <a href="https://telegram.dog/abdurrahmanibnghufran" target="_blank">
+  <a href="https://telegram.dog/TechilyFlyAIG" target="_blank">
   <img src="https://img.shields.io/badge/telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=#EA4335">
   </a>
-  <a href="mailto:AbdurRahmanGOfficial@gmail.com" target="_blank">
+  <a href="mailto:TechilyFlyAIG@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/mail-ffffff?style=for-the-badge&logo=gmail&logoColor=#EA4335">
   </a>
 	
@@ -100,10 +100,10 @@ YOUTUBE-VIDEOS-LIST
 
 <table>
 <tr>
-<td><a href="https://youtu.be/DfxaxzXsZuQ"><img width="140px" src="https://i.ytimg.com/vi/DfxaxzXsZuQ/mqdefault.jpg"></a>
+<td><a href="https://youtu.be/pAQtDklWh8c"><img width="140px" src="https://i.ytimg.com/vi/pAQtDklWh8c/mqdefault.jpg"></a>
 </td>
 <td>
-<a href="https://www.youtube.com/watch?v=DfxaxzXsZuQ">Intro</a> (2023)<br/>
+<a href="https://www.youtube.com/watch?v=pAQtDklWh8c">Intro</a> (2023)<br/>
 </td>
 </tr>
 </table>
