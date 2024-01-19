@@ -119,12 +119,12 @@ Support link to get financial support
 
 <br>
 
-<a href='https://ko-fi.com/abdurrahmang' target='_blank'>
+<a href='https://ko-fi.com/abdurrahmanibnghufran' target='_blank'>
 	<img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
 
-<a href='https://www.buymeacoffee.com/abdurrahmang' target='_blank'>
-	<img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support AbdurRahman G on buymecoffee' />
+<a href='https://www.buymeacoffee.com/abdurrahmanibng' target='_blank'>
+	<img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support AbdurRahman Ibn Ghufran on buymecoffee' />
 </a>
 </p>
 
