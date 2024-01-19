@@ -52,7 +52,7 @@ Sociel Media
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCqlTGOr0ZTS4GCO-5wpFJtg" target="_blank">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCqlTGOr0ZTS4GCO-5wpFJtg?color=%23FF0000&label=YouTube&logo=YouTube&logoColor=%23FF0000&style=for-the-badge" alt="AbdurRahman Ibn Ghufran's YouTube channel"/>
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCrQ9tWwT5vs5Dn4eGRbjnsA?color=%23FF0000&label=YouTube&logo=YouTube&logoColor=%23FF0000&style=for-the-badge" alt="AbdurRahman Ibn Ghufran's YouTube channel"/>
   </a>
   <a href="https://abdurrahmanibn.github.io/udemy" target="_blank">
   <img src="https://img.shields.io/badge/Udemy-0077B5?style=for-the-badge&logo=udemy&logoColor=white"" alt="AbdurRahman G&apos;s Udemy Profile"/>
